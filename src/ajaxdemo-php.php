@@ -1,5 +1,5 @@
 <?php
 
-Print"<h3>Hello World</h3>"
+print"<h3>Hello World</h3>"
 
 ?>
